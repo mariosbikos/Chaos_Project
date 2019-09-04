@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A68982F2-4F9E-7BCD-40D3-5A8AD799F762}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ChaosProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ChaosEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "PlanarCut",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryCollectionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "FieldSystemPlugin",
+			"Enabled": true
+		}
+	]
+}
